@@ -5,7 +5,7 @@ on:
   pull_request:
     branches:
     - layers
-    - branch_01
+    - branch01
   workflow_dispatch:
   # Allows external webhook trigger
   repository_dispatch:
